@@ -1,0 +1,42 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombres": "Juan Perez",
+      "email": "juan@hotmail.com",
+      "password": "e6481c46e064c35e8f6e371d72912507"
+    },
+    {
+      "id": "2",
+      "nombres": "Michell Guzman",
+      "email": "michell@gmail.com",
+      "password": "f0efb5f6cb4ce54821a9c5c6e1dff052"
+    }
+  ],
+  "camiones": [
+    {
+      "id": "1",
+      "matricula": "ABC-1234",
+      "marca": "Ford",
+      "capacidad": 1500,
+      "consumo": 12.5,
+      "carga_actual": 750
+    },
+    {
+      "id": "2",
+      "matricula": "XYZ-5678",
+      "marca": "Chevrolet",
+      "capacidad": 2000,
+      "consumo": 14,
+      "carga_actual": 1200
+    },
+    {
+      "id": "1948",
+      "matricula": "XYZ-123",
+      "marca": "Ford",
+      "capacidad": 1000,
+      "consumo": "20",
+      "carga_actual": 500
+    }
+  ]
+}
